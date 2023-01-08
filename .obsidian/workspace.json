@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b67cd882fde4a877",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C Sharp.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Sharp.md",
+                "file": "Service Fabric.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C Sharp.md",
+                "file": "Service Fabric.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Sharp.md"
+                "file": "Service Fabric.md"
               }
             }
           },
@@ -170,9 +157,10 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "b67cd882fde4a877",
+  "active": "4de8cff64c160567",
   "lastOpenFiles": [
-    "Service Fabric.md",
-    "C Sharp.md"
+    "docs/README.md",
+    "C Sharp.md",
+    "Service Fabric.md"
   ]
 }
